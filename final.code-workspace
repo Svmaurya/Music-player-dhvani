@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "image",
+			"path": "../project/image"
+		},
+		{
+			"name": "progress",
+			"path": "."
+		},
+		{
+			"name": "sound",
+			"path": "../project/sound"
+		},
+		{
+			"name": "covers",
+			"path": "../project/covers"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "progress"
+	}
+}
